@@ -12,13 +12,13 @@ HTML and CSS assignments from Coding I at Pratt Institute
 
 ![alt text](pratt-coding-one/404 page/images/screenshot_404page.png "Description goes here")
 
-![alt tag](https://static.pexels.com/photos/132715/pexels-photo-132715.jpeg "Description goes here")
+
 
 
 <h2>3. About me page</h2>
 <h3></h3>
 
-
+![screenshot](about_me/screenshot_about_me.png "Description goes here")
 
 <h2>4. Fix the broken code: BLAB</h2>
 <h3></h3>
