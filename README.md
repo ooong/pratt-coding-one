@@ -11,7 +11,11 @@ HTML and CSS assignments from Coding I at Pratt Institute
 <h3>Assignment: Create a 404 page</h3>
 ![Screenshot](https://github.com/ooong/pratt-coding-one/blob/master/404%20page/images/screenshot_404page.png)
 
-![image](pratt-coding-one/404 page/images/screenshot_404page.png)
+
+https://github.com/ooong/pratt-coding-one/blob/master/404%20page/images/screenshot_404page.png
+
+
+![image](https://static.pexels.com/photos/132715/pexels-photo-132715.jpeg)
 
 <h2>3. About me page</h2>
 <h3></h3>
