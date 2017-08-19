@@ -1,0 +1,210 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+
+
+/* The Brooklyn Literary Army of Bushwick - student version */
+html { 
+  background: url(images/bg-b.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Merriweather', serif;
+}
+
+body {
+
+}
+
+.clear {
+  clear: both;
+}
+
+.container {
+  max-width:940px;
+  color: white;
+  margin: auto;
+  text-align: center;
+
+
+
+}
+
+/* Header */
+
+.header {
+  padding: 10px;
+  height: 30px;
+  background-color: rgba(0,0,0,.5);
+  left: -200px;
+  position: relative;
+}
+
+.header img {
+  width: 25px;
+  height: 25px;
+  position: relative;
+}
+
+.header li {
+  display: inline-block;
+  padding: 5px;
+  margin: 5px;
+}
+
+.header a {
+  color: white;
+  text-decoration: none;
+  font-size: 12px;
+  position: relative;
+  bottom: 10px;
+  padding: 10px;
+}
+
+.header a:hover {
+  background-color: red;
+}
+
+
+.row {
+ 
+}
+
+
+.col-med {
+  width: 30%;
+  float: left;
+}
+
+.col-med img {
+  width: 120px;
+  height: 120px;
+  top: 0;
+  position: relative;
+}
+
+.col-med h3 {
+  font-size: 20px;
+  margin: 5px;
+  top: 5px;
+  position: relative;
+}
+
+.col-med p {
+  font-size: 12px;
+  background-color: rgba(0,0,0,.5);
+  margin: 15px;
+  line-height: 20px;
+}
+
+#italic {
+  font-style: italic;
+}
+
+/* Jumbotron */
+.jumbotron {
+  position: relative;
+  top: 50px;
+  text-shadow: 0 2px 3px rgba(0,0,0,.4);
+}
+
+.jumbotron h1 {
+  font-size: 50px;
+}
+
+
+.jumbotron h2 {
+  font-size: 30px;
+  margin-top: 10px;
+}
+
+
+/* Supporting */
+
+.supporting {
+  margin-top: 100px;
+  text-shadow: 0 2px 3px rgba(0,0,0,.4);
+}
+
+.supporting img{
+  margin-top: auto;
+}
+
+/* Button */
+
+.button {
+  height: 35px;
+  width: 200px;
+  background-color: #026d8b;
+  text-align: center;
+  border-radius: 8px;
+  padding-top: 15px;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 40px;
+  
+}
+
+.button:hover {
+  background-color: red;
+}
+
+.button a {
+  color: white;
+  text-decoration: none;
+}
+

@@ -1,0 +1,161 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+
+html{
+/*  background: url(https://static.pexels.com/photos/94685/pexels-photo-94685.jpeg) no-repeat center center fixed; */
+  background: url(https://static.pexels.com/photos/262669/pexels-photo-262669.jpeg) no-repeat center center fixed; 
+/*background-color: green;*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+    font-family: 'Roboto', serif;
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 50px;
+    color: #f2f2f2;
+    text-align:center;
+}
+
+h1{
+  font-family:'Roboto', serif;
+  font-weight: 100;
+  font-size:40px;
+}
+
+/* Paragraph & Typographic goes here */
+
+
+
+/* Custom  */
+
+.big-box {
+    background-color: rgba(50, 0, 0, .7);
+    position:absolute;
+    height: 500px;
+    width:470px;
+    margin:40px;
+    padding:30px;
+}
+
+.logo{
+}
+
+.text{
+  position:relative;
+  min-width:100%;
+}
+
+.btn {
+  height: 30px;
+  width: 150px;
+  background-color: SlateBlue;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  font-family: 'Roboto', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px;
+  margin: 5px auto;
+  text-decoration: none;
+  box-shadow: 0 9px #999;
+}
+
+.btn:hover {
+  background-color: green;
+/*  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);*/
+  text-decoration: none;
+  color:purple;
+}
+
+.btn:active {
+  background-color: green;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.nav {
+  padding: 20px;
+  margin: 20px 20px 20px 20px;
+  background-color: MidnightBlue;
+
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+ul li {
+  display: inline-block;
+}
+
+i {
+  background-color: MidnightBlue;
+  color: white;
+}
+
+.fa {
+  font-size: 40px;
+  margin: 20px 10px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
