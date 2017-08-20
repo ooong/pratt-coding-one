@@ -13,21 +13,23 @@
 
 
 <h2>3. About me page</h2>
-<h3></h3>
+<h3>Create an About Me page</h3>
 
 ![screenshot](about_me/screenshot_about_me.png "Description goes here")
 
 <h2>4. Fix the broken code: BLAB</h2>
-<h3></h3>
+<h3>Fix the broken code and use the media assets provided</h3>
 
 ![screenshot](blab/images/screenshot_blab.png)
 
 
 <h2>5. Fix the broken code: Yolk</h2>
-<h3></h3>
+<h3>Fix the broken code and use the media assets provided</h3>
 
 ![screenshot](yolk/images/screenshot_yolk.png)
 
 
 <h2>6. Flexbox image gallery</h2>
-<h3></h3>
+<h3>Create an image gallery using flexbox</h3>
+
+![screenshot](flexbox_coffee/images/screenshot_flexbox.png)
