@@ -1,10 +1,9 @@
-# pratt-coding-one
-HTML and CSS assignments from Coding I at Pratt Institute 
-
 <h1>Screenshots of HTML and CSS assignments from Coding I at Pratt Institute</h1>
 
 <h2>1. Country page</h2>
 <h3>Assignment: Create a page for a country</h3>
+
+![screenshot](country_homework/screenshot_country.png)
 
 
 <h2>2. 404 page</h2>
@@ -27,7 +26,7 @@ HTML and CSS assignments from Coding I at Pratt Institute
 <h2>5. Fix the broken code: Yolk</h2>
 <h3></h3>
 
-
+![screenshot](yolk/images/screenshot_yolk.png)
 
 
 <h2>6. Flexbox image gallery</h2>
