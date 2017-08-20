@@ -1,4 +1,5 @@
-<h1>Screenshots of HTML and CSS assignments from Coding I at Pratt Institute</h1>
+<h1>HTML and CSS assignments from Coding I at Pratt Institute</h1>
+<h4>Screenshots below</h4>
 
 <h2>1. Country page</h2>
 <h3>Assignment: Create a page for a country</h3>
@@ -9,7 +10,7 @@
 <h2>2. 404 page</h2>
 <h3>Assignment: Create a 404 page</h3>
 
-![screenshot](404 page/images/screenshot_404page.png "Description goes here")
+![screenshot](country_homework/screenshot_404page.png)
 
 
 <h2>3. About me page</h2>
