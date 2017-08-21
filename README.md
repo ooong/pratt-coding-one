@@ -14,7 +14,7 @@
 
 
 <h2>3. About me page</h2>
-<h3>Create an About Me page</h3>
+<h3>Create an About me page</h3>
 
 ![screenshot](about_me/screenshot_about_me.png "Description goes here")
 
